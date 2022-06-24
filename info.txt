@@ -1,0 +1,4 @@
+npx create-react-app ./
+
+api: code => 6f13dbb5
+https://omdbapi.com/apikey.aspx
